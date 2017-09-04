@@ -6,8 +6,7 @@
         "laravel"
     ],
     "require": {
-        "sunra/php-simple-html-dom-parser": "^1.5",
-        "illuminate/support": "5.4.*"
+        "sunra/php-simple-html-dom-parser": "^1.5"
     },
     "homepage": "https://github.com/ammadeuss/html-dom-parser",
     "license": "MIT",
