@@ -23,7 +23,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
      */
     public function register()
     {
-        $this->app->bind('HTML2DomParser', function ($app) {
+        $this->app->bind('HTMLDomParser', function ($app) {
             return new HtmlDomParser;
         });
     }
