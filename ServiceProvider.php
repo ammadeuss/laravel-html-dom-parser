@@ -2,7 +2,7 @@
 
 namespace Ammadeuss\LaravelHtmlDomParser;
 
-use Sunra\PhpSimple\HtmlDomParser;
+use KubAT\PhpSimple\HtmlDomParser;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
